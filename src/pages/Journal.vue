@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+Here we post our information
         </h1>
       </div>
     </div>
