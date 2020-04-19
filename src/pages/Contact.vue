@@ -3,8 +3,8 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">Contact Us</h1>
+        <p>Leave us a note with any questions you might have, I'll get back to you as soon as possible.</p>
       </div>
 
       <form class="contact-form" name="contact">
